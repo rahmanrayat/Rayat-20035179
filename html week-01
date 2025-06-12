@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table, th, td {
+      border: 1px solid black;
+    }
+</style>
+<body>
+<table style="width;100%">
+    </tr>
+    <tr>
+        <td>Rahman</td>
+        <td>rayat</td>
+        <td>united kingdom<td>
+    </tr>
+    <tr>
+        <td>commerial</td>
+        <td>frandarensi </td>
+        <td>Mexico</td>
+        </tr>
+        </table>
+        <p>week 1 table .</p>
+
+        <body>
+        </html>
